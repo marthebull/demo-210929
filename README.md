@@ -1,4 +1,6 @@
 # demo-210929
 Demo repo for Noroff WCT
 
-Owner Marthe Bull Pettersen
+https://nifty-almeida-956519.netlify.app/
+
+Owner: Marthe Bull Pettersen
